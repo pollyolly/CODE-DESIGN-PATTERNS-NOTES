@@ -13,3 +13,5 @@ These patterns are concerned with algorithms and the assignment of responsibilit
 ```
 
 [DESIGN PATTERNS](https://refactoring.guru/design-patterns/php)
+
+[SOLID PRINCIPLE](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design)
